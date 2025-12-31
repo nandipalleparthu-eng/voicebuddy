@@ -1,0 +1,12 @@
+{
+  "name": "voicebuddy-ai",
+  "version": "1.0.0",
+  "description": "Voice-first AI assistant for children and elderly users",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
